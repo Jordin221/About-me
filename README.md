@@ -6,4 +6,4 @@
 
 #-🎮 I love playing games and watching anime 
 
-#-🌱i'm learning about open souce this summer.
+#-🌱i'm learning about open source this summer.
